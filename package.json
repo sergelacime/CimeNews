@@ -1,0 +1,16 @@
+{
+  "name": "ElectronApp",
+  "productName": "ElectronApp",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "serge",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "25.0.0-alpha.1"
+  }
+}

@@ -1,0 +1,8 @@
+/* styles.css */
+
+/* Add styles here to customize the appearance of your app */
+ .table-scroll {
+                    height: 400px;
+                    overflow-y: auto;
+                    margin-top: 40px;
+                  }
